@@ -9,13 +9,21 @@ Skills Learned
 
 
 •  Created and customized dashboard panels to visualize Windows security events.
+
 •  Queried and filtered Windows Event Logs using Splunk Search Processing Language (SPL).
+
 •  Monitored Windows Firewall activity by identifying newly added firewall exception rules.
+
 •  Extracted and displayed key event fields, including Time, Computer, Profile Changed, Rule Name, and Rule ID.
+
 •  Sorted search results chronologically to improve event analysis and investigation.
+
 •  Analyzed Windows endpoint activity to identify configuration changes and potential security risks.
+
 •  Improved log analysis skills by working with Windows security event data and field extractions.
+
 •  Developed dashboards that enhance visibility into system changes and support incident investigations.
+
 •  Applied Splunk best practices for creating clear, actionable security monitoring dashboards.
 
 Steps
