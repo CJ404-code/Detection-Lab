@@ -18,10 +18,6 @@ Skills Learned
 •  Developed dashboards that enhance visibility into system changes and support incident investigations.
 •  Applied Splunk best practices for creating clear, actionable security monitoring dashboards.
 
-
-[Bullet Points - Remove this afterwards]
-
-
 Steps
 Create a New Serach 
 
