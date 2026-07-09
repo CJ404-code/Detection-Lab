@@ -7,24 +7,34 @@ Create a new dashboard panel named Firewall Exception Added to monitor Windows F
 
 Skills Learned
 
+•  Researched and identified the correct Windows Security Event ID (4946) for newly added Windows Firewall exception rules. 
 
-•  Created and customized dashboard panels to visualize Windows security events.
+•  Investigated Windows Security Event Logs to detect firewall configuration changes and validate newly created firewall exceptions. 
 
-•  Queried and filtered Windows Event Logs using Splunk Search Processing Language (SPL).
+•  Developed a SOC dashboard panel to monitor Windows Firewall rule additions and improve visibility into endpoint security events. 
 
-•  Monitored Windows Firewall activity by identifying newly added firewall exception rules.
+•  Parsed and displayed critical security event fields, including Time, Computer, Profile Changed, Rule Name, and Rule ID, to support incident investigations. 
 
-•  Extracted and displayed key event fields, including Time, Computer, Profile Changed, Rule Name, and Rule ID.
+•  Organized security events chronologically to establish an accurate timeline for threat analysis and forensic review. 
 
-•  Sorted search results chronologically to improve event analysis and investigation.
+•  Applied log analysis techniques to identify changes to Windows Firewall policies that could indicate unauthorized system modifications. 
 
-•  Analyzed Windows endpoint activity to identify configuration changes and potential security risks.
+•  Enhanced SOC monitoring by creating a dashboard that enables analysts to quickly detect and investigate firewall rule additions. 
 
-•  Improved log analysis skills by working with Windows security event data and field extractions.
+•  Strengthened familiarity with Windows Security auditing, endpoint telemetry, and security event correlation through hands-on detection engineering exercises.
 
-•  Developed dashboards that enhance visibility into system changes and support incident investigations.
+Tools Used 
 
-•  Applied Splunk best practices for creating clear, actionable security monitoring dashboards.
+•	Splunk Enterprise – Created the dashboard panel, searched Windows Security logs, and visualized firewall rule additions.
+
+•	Splunk Search Processing Language (SPL) – Queried Event ID 4946 and extracted relevant event fields for analysis.
+
+•	Windows Security Event Logs – Collected and analyzed security audit events related to Windows Firewall changes.
+
+•	Windows Firewall with Advanced Security (WF.msc) – Generated and validated firewall rule additions within the Windows environment.
+
+•	Windows Event Viewer – Verified Event ID 4946 and reviewed the associated event details.
+
 
 Steps
 Create a New Serach 
